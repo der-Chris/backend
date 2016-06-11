@@ -1,0 +1,16 @@
+{
+	"compilerOptions": {
+		"sourceMap": true,
+		"target": "es5",
+		"module": "commonjs",
+		"jsx": "react",
+		"noImplicitAny": true,
+		"noEmitOnError": false,
+		"removeComments": true,
+		"experimentalDecorators": true
+	},
+	"exclude": [
+		"typings",
+		"node_modules"
+	]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "backend",
+  "version": "0.0.0",
+  "description": "Backend for help-me-choose",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/help-me-choose/backend.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/help-me-choose/backend/issues"
+  },
+  "devDependencies": {
+    "gulp-typescript": "~2.13.6",
+    "gulp-sourcemaps": "~1.6.0"
+  },
+  "dependencies": {
+    "express-http-proxy": "~0.7.0",
+    "source-map-support": "~0.4.0",
+    "express": "~4.13.4",
+    "morgan": "~1.7.0"
+  }
+}

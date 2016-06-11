@@ -1,0 +1,4 @@
+"use strict";
+exports.couchUrl = 'localhost:5984';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImNvbmZpZy50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiO0FBQWEsZ0JBQVEsR0FBRyxnQkFBZ0IsQ0FBQyIsImZpbGUiOiJjb25maWcuanMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgY29uc3QgY291Y2hVcmwgPSAnbG9jYWxob3N0OjU5ODQnO1xuIl0sInNvdXJjZVJvb3QiOiIvc291cmNlLyJ9
